@@ -1,0 +1,9 @@
+train: /Users/max/Documents/06_john_doc/3d_p/3DAnomalyDetect/exp/datasets/train/images
+val: /Users/max/Documents/06_john_doc/3d_p/3DAnomalyDetect/exp/datasets/val/images
+val: /Users/max/Documents/06_john_doc/3d_p/3DAnomalyDetect/exp/datasets/test/images
+ 
+# 类别数
+nc: 3
+ 
+# 类别名称
+names: ['normal', 'spaghetti', 'possible-spaghetti']
