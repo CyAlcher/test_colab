@@ -1,7 +1,7 @@
-train: /Users/max/Documents/06_john_doc/3d_p/3DAnomalyDetect/exp/datasets/train/images
-val: /Users/max/Documents/06_john_doc/3d_p/3DAnomalyDetect/exp/datasets/val/images
-val: /Users/max/Documents/06_john_doc/3d_p/3DAnomalyDetect/exp/datasets/test/images
- 
+train: /kaggle/working/test_colab/exp/datasets/train/images
+val: /kaggle/working/test_colab/exp/datasets/val/images
+val: /kaggle/working/test_colab/exp/datasets/test/images
+
 # 类别数
 nc: 3
  
