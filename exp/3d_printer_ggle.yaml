@@ -1,0 +1,9 @@
+train: /content/drive/MyDrive/github_cq/test_colab/exp/datasets/train/images
+val: /content/drive/MyDrive/github_cq/test_colab/exp/datasets/val/images
+val: /content/drive/MyDrive/github_cq/test_colab/exp/datasets/test/images
+ 
+# 类别数
+nc: 3
+ 
+# 类别名称
+names: ['normal', 'spaghetti', 'possible-spaghetti']
